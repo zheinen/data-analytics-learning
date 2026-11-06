@@ -33,4 +33,13 @@ Microsoft Power BI Data Analyst Associate (PL-300).
 
 ## Learning Sessions
 
-*No sessions completed yet.*
+## Progress
+
+### November 6, 2026 — SQL Fundamentals 1
+
+- Set up a dedicated PostgreSQL database (`analytics_learning`) in the existing Docker container.
+- Created a fictional retail sales dataset with six records.
+- Practiced `SELECT`, `FROM`, `WHERE`, `AND`, `OR`, and `ORDER BY`.
+- Executed the practice script locally using PostgreSQL.
+- Added the exercises to `sql/fundamentals/01-select-where-order-by.sql`.
+- Committed and pushed the script to GitHub.
