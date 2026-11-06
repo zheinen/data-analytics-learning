@@ -43,3 +43,14 @@ Microsoft Power BI Data Analyst Associate (PL-300).
 - Executed the practice script locally using PostgreSQL.
 - Added the exercises to `sql/fundamentals/01-select-where-order-by.sql`.
 - Committed and pushed the script to GitHub.
+### November 6, 2026 — SQL Fundamentals 2
+
+- Practiced aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`.
+- Created calculated columns using arithmetic expressions.
+- Used column aliases to make query results easier to interpret.
+- Practiced `GROUP BY` to summarize sales by product.
+- Used `HAVING` to filter aggregated results.
+- Calculated total units sold and revenue by product.
+- Executed all exercises against the local PostgreSQL database.
+- Added exercises to `sql/fundamentals/02-aggregates-group-by-having.sql`.
+- Committed and pushed the script to GitHub.
