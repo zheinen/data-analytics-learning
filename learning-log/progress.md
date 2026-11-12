@@ -54,3 +54,15 @@ Microsoft Power BI Data Analyst Associate (PL-300).
 - Executed all exercises against the local PostgreSQL database.
 - Added exercises to `sql/fundamentals/02-aggregates-group-by-having.sql`.
 - Committed and pushed the script to GitHub.
+
+
+### November 12, 2026 — SQL Fundamentals 3: JOINs
+
+- Created a second table (`products`) to practice relational queries.
+- Practiced INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
+- Learned how JOIN conditions work using ON.
+- Practiced table aliases to simplify queries.
+- Used LEFT JOIN and IS NULL to identify unmatched records.
+- Combined JOINs with aggregate functions, GROUP BY, HAVING, and ORDER BY.
+- Executed all exercises against the local PostgreSQL database.
+- Added exercises to sql/fundamentals/03-joins.sql.
